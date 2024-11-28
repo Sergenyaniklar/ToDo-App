@@ -10,3 +10,5 @@ Bu, React ile geliştirilmiş basit bir **Todo Uygulaması**dır. Uygulama, kull
   - `All`: Tüm görevleri gösterir.
   - `Active`: Sadece tamamlanmamış görevleri gösterir.
   - `Completed`: Sadece tamamlanmış görevleri gösterir.
+## Canlı Link 
+[Canlı Link](https://to-do-app-bay-ten-85.vercel.app/)
